@@ -3,7 +3,7 @@ var WINDOW_HEIGHT = 800;
 var RADIUS = 10;
 var MARGIN_TOP = 60;
 var MARGIN_LEFT = 30;
-const endTime = new Date(2018,4,9,19,40,34);
+const endTime = new Date(2018,4,10,15,40,34);
 
 var balls = [];
 const colors = ["#33B5E5","#0099CC","#AA66CC","#9933CC","#99CC00","#669900","#FFBB33","#FF8800","#FF4444","#CC0000"];
